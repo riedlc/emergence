@@ -4,7 +4,7 @@ Companion code to
 
 > Riedl, C. & Rosas, F.E. (2026). **Claims of emergence in AI should be grounded in information decomposition.** *In Advances in Neural Information Processing Systems*, volume 39, 2026.
 
-See [arXiv](https://arxiv.org/abs/XXXX.XXXX).
+See [arXiv](https://arxiv.org/abs/2610.28479).
 
 ```bibtex
 @inproceedings{riedl2026multi,
